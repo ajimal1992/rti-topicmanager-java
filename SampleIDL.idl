@@ -1,0 +1,7 @@
+struct Count {
+    long count;
+};
+ 
+struct Message {
+    string<128> msg;
+};
